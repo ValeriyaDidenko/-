@@ -1,0 +1,30 @@
+body {
+    font-size: 16px;
+}
+
+p {
+    /* text-align: ; */
+    font-size: 2em;
+    /* font-family: ; */
+}
+
+
+
+/* 
+Абсолютні одиниці виміру: px
+Відносні одиниці виміру:  em (1em = 100%,% від шрифта батьк. ел.)
+                        rem (1rem = 100% від рутового ел.)
+*/
+
+
+h1 {
+    font-size: 1em;
+}
+
+div {
+    font-size: 1.5em;
+}
+
+aricle {
+    font-size: 2.25em;
+}
