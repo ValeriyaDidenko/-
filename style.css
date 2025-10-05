@@ -24,6 +24,7 @@ body {
 
 div {
     white-space: pre;
+    text-transform: capitalize;
 }
 
 h2 {
@@ -33,4 +34,5 @@ h2 {
     overflow: hidden;
     text-overflow: ellipsis;
     padding: 10px;
+    text-transform: uppercase;
 }
