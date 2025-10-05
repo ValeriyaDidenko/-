@@ -1,35 +1,19 @@
-html {
-    font-size: 16px;
-}
-
-/* body {
-    font-size: 16px;
-} */
-
-p {
-    /* text-align: ; */
-    font-size: 1rem;
-    /* font-family: ; */
-}
-
-
-
 /* 
 Абсолютні одиниці виміру: px
 Відносні одиниці виміру:  em (1em = 100%,% від шрифта батьк. ел.)
                         rem (1rem = 100% від рутового ел.)
-                        vw (100vw - 100% видимої частини вікна браузера)
+                        vw|vh (1vw - 1% видимої частини вікна браузера)
 */
 
 
-h1 {
-    font-size: 2rem;
-}
+/* p {
+    text-align: ;
+    font-size: 1rem;
+    font-family: ;
+} */
 
-div {
-    font-size: 1.5rem;
-}
-
-article {
-    font-size: 2.25rem;
+body {
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
